@@ -1,0 +1,7 @@
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\bin\Debug\NumbersList.exe.config
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\bin\Debug\NumbersList.exe
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\bin\Debug\NumbersList.pdb
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\obj\Debug\NumbersList.csprojResolveAssemblyReference.cache
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\obj\Debug\NumbersList.csproj.CoreCompileInputs.cache
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\obj\Debug\NumbersList.exe
+C:\Systems\Katas\C#\Lambda\NumbersList\NumbersList\obj\Debug\NumbersList.pdb
